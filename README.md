@@ -1,1 +1,1 @@
-# CheakCharacter-is-UpperCase-lowercCase
+# CheakCharacter-is-UpperCase-lowerCase
