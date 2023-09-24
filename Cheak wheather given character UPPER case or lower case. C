@@ -12,16 +12,16 @@ int main ()
 		printf("\n Given character UPPER CASE.");
 	}
 	else if (ch >= 'a' && ch <= 'z')
-    {
-    	printf("\n Given character LOWER CASE.");
-    }
-    else
-    {
-    	printf("\n Given character Neither UPPER CASE Nor LOWER CASE.");
-    }
+        {
+    	        printf("\n Given character LOWER CASE.");
+        }
+        else
+        { 
+    	        printf("\n Given character Neither UPPER CASE Nor LOWER CASE.");
+        }
     
-    printf("\n\n Thanks");
+        printf("\n\n Thanks");
     
-    getch();
-    return 0;
+        getch();
+        return 0;
 }
